@@ -1,5 +1,5 @@
-🚘 PlateGuardian API
-PlateGuardian é uma aplicação ASP.NET Core que fornece uma API robusta para gerenciamento de usuários, placas veiculares e ocorrências. A aplicação utiliza autenticação JWT para garantir a segurança dos endpoints.
+🚘 SecurePlates API
+SecurePlates-API é uma aplicação ASP.NET Core que fornece uma API robusta para gerenciamento de usuários, placas veiculares e ocorrências. A aplicação utiliza autenticação JWT para garantir a segurança dos endpoints.
 
 🛠️ Funcionalidades
 ✅ Registro de usuários
@@ -35,7 +35,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/plateguardian-api.git
+git clone https://github.com/seu-usuario/SecurePlates-API.git
 cd plateguardian-api
 Configure a string de conexão:
 
